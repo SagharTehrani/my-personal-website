@@ -1,0 +1,51 @@
+.satisfy-regular {
+    font-family: "Satisfy", cursive;
+    font-weight: 100;
+    font-style: normal;
+    color: #054e5d;
+  }
+
+.textured-background {
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background: repeating-linear-gradient( -45deg, #a3d7e2, #a3d7e2 15px, #efeff7 15px, #efeff7 75px );
+    
+}
+
+.feature-back{
+    background-color: white;
+    opacity: 0.8;
+    background: repeating-linear-gradient( -45deg, #dddedf, #dddedf 2px, white 2px, white 10px );
+    border-radius: 10%;
+}
+
+#intro{
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    margin-top: 0px;
+}
+
+#brief-background img{
+    border-radius: 50%;
+    border: ridge #a3d7e2 3px;
+}
+
+.screenshot{
+    border: solid #a3d7e2 5px;
+    border-radius: 10%;
+}
+#projects button{
+    margin-top: 25px;
+    color: white;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+}
+#footer{
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+}
+h3{
+    color: #1e6470;
+}
+
